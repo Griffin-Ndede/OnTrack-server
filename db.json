@@ -1,74 +1,84 @@
 {
   "users": [
     {
-      "id": 1,
-      "first_name": "Justina",
-      "last_name": "Ginglell",
-      "email": "jginglell0@networkadvertising.org",
-      "gender": "Female"
+      "name": "John Doe",
+      "username": "johndoe",
+      "email": "johndoe@example.com",
+      "gender": "male",
+      "profilePicture": "https://example.com/profiles/johndoe.jpg",
+      "eVehicle": "eScooter"
     },
     {
-      "id": 2,
-      "first_name": "Marion",
-      "last_name": "Jenman",
-      "email": "mjenman1@surveymonkey.com",
-      "gender": "Male"
+      "name": "Jane Smith",
+      "username": "janesmith",
+      "email": "janesmith@example.com",
+      "gender": "female",
+      "profilePicture": "https://example.com/profiles/janesmith.jpg",
+      "eVehicle": "eBike"
     },
     {
-      "id": 3,
-      "first_name": "Alfy",
-      "last_name": "Begin",
-      "email": "abegin2@list-manage.com",
-      "gender": "Female"
+      "name": "Alice Johnson",
+      "username": "alicejohnson",
+      "email": "alicejohnson@example.com",
+      "gender": "female",
+      "profilePicture": "https://example.com/profiles/alicejohnson.jpg",
+      "eVehicle": "eScooter"
     },
     {
-      "id": 4,
-      "first_name": "Karney",
-      "last_name": "Zanussii",
-      "email": "kzanussii3@hao123.com",
-      "gender": "Male"
+      "name": "Robert Williams",
+      "username": "robertwilliams",
+      "email": "robertwilliams@example.com",
+      "gender": "male",
+      "profilePicture": "https://example.com/profiles/robertwilliams.jpg",
+      "eVehicle": "eBike"
     },
     {
-      "id": 5,
-      "first_name": "Reid",
-      "last_name": "Schapero",
-      "email": "rschapero4@timesonline.co.uk",
-      "gender": "Male"
+      "name": "Sophia Davis",
+      "username": "sophiadavis",
+      "email": "sophiadavis@example.com",
+      "gender": "female",
+      "profilePicture": "https://example.com/profiles/sophiadavis.jpg",
+      "eVehicle": "eScooter"
     },
     {
-      "id": 6,
-      "first_name": "Dorine",
-      "last_name": "Braybrookes",
-      "email": "dbraybrookes5@gov.uk",
-      "gender": "Female"
+      "name": "William Brown",
+      "username": "williambrown",
+      "email": "williambrown@example.com",
+      "gender": "male",
+      "profilePicture": "https://example.com/profiles/williambrown.jpg",
+      "eVehicle": "eBike"
     },
     {
-      "id": 7,
-      "first_name": "Sarena",
-      "last_name": "Frape",
-      "email": "sfrape6@alexa.com",
-      "gender": "Female"
+      "name": "Olivia Wilson",
+      "username": "oliviawilson",
+      "email": "oliviawilson@example.com",
+      "gender": "female",
+      "profilePicture": "https://example.com/profiles/oliviawilson.jpg",
+      "eVehicle": "eScooter"
     },
     {
-      "id": 8,
-      "first_name": "Malva",
-      "last_name": "Pierse",
-      "email": "mpierse7@usda.gov",
-      "gender": "Female"
+      "name": "Michael Thompson",
+      "username": "michaelthompson",
+      "email": "michaelthompson@example.com",
+      "gender": "male",
+      "profilePicture": "https://example.com/profiles/michaelthompson.jpg",
+      "eVehicle": "eBike"
     },
     {
-      "id": 9,
-      "first_name": "Rania",
-      "last_name": "Dablin",
-      "email": "rdablin8@state.gov",
-      "gender": "Female"
+      "name": "Emma Anderson",
+      "username": "emmaanderson",
+      "email": "emmaanderson@example.com",
+      "gender": "female",
+      "profilePicture": "https://example.com/profiles/emmaanderson.jpg",
+      "eVehicle": "eScooter"
     },
     {
-      "id": 10,
-      "first_name": "Ingrim",
-      "last_name": "Offen",
-      "email": "ioffen9@slideshare.net",
-      "gender": "Male"
+      "name": "James Lee",
+      "username": "jameslee",
+      "email": "jameslee@example.com",
+      "gender": "male",
+      "profilePicture": "https://example.com/profiles/jameslee.jpg",
+      "eVehicle": "eBike"
     }
   ]
 }
